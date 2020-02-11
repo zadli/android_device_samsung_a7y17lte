@@ -15,3 +15,8 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_a7y17lte.mk
+
+COMMON_LUNCH_CHOICES := \
+    lineage_a7y17lte-userdebug \
+    lineage_a7y17lte-user \
+    lineage_a7y17lte-eng
